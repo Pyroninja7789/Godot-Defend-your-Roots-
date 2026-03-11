@@ -137,6 +137,16 @@ albedo_color = Color(0.45490196, 0.41960785, 0.3529412, 1)
 
 [sub_resource type="CylinderMesh" id="CylinderMesh_u02i4"]
 
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_t54wm"]
+albedo_color = Color(1.0003047, 0.7100249, 1.0003047, 1)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_suf1n"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_vbmue"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_fwdeo"]
+albedo_color = Color(0, 0, 0, 1)
+
 [node name="Objects to collide with" type="Node3D" unique_id=1059062920]
 
 [node name="room" type="Node3D" parent="." unique_id=1466242836]
@@ -153,7 +163,6 @@ shape = SubResource("BoxShape3D_qra7f")
 
 [node name="roof" type="MeshInstance3D" parent="room" unique_id=1764485946]
 transform = Transform3D(20, 0, 0, 0, 1, 0, 0, 0, 20, -2, 5, 6)
-visible = false
 material_override = SubResource("StandardMaterial3D_341ea")
 mesh = SubResource("BoxMesh_qra7f")
 surface_material_override/0 = SubResource("StandardMaterial3D_xlp04")
@@ -1828,15 +1837,235 @@ shape = SubResource("BoxShape3D_qra7f")
 [node name="lights" type="Node3D" parent="." unique_id=1133579493]
 
 [node name="light" type="Node3D" parent="lights" unique_id=1145403748]
-transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -8.924727, 0, 23.236202)
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -6.21, -4.28, 23.236)
 
 [node name="chir6" type="MeshInstance3D" parent="lights/light" unique_id=812954925]
-transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
-material_override = SubResource("StandardMaterial3D_glg8d")
-mesh = SubResource("BoxMesh_qra7f")
+transform = Transform3D(1, 0, 0, 0, 0.25, 0, 0, 0, 1, -4.7647133, 8.2566805, 12.372731)
+material_override = SubResource("StandardMaterial3D_t54wm")
+mesh = SubResource("CylinderMesh_suf1n")
 surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
 
 [node name="StaticBody3D" type="StaticBody3D" parent="lights/light/chir6" unique_id=281956604]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light/chir6/StaticBody3D" unique_id=1408971744]
 shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir8" type="MeshInstance3D" parent="lights/light" unique_id=1487432169]
+transform = Transform3D(0.9, 0, 0, 0, 0.25, 0, 0, 0, 0.9, -4.765, 8.256, 12.373)
+material_override = SubResource("StandardMaterial3D_vbmue")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light/chir8" unique_id=1730648297]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light/chir8/StaticBody3D" unique_id=403998629]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir7" type="MeshInstance3D" parent="lights/light" unique_id=1508038921]
+transform = Transform3D(0.2, 0, 0, 0, 0.25, 0, 0, 0, 0.2, -4.765, 8.652, 12.373)
+material_override = SubResource("StandardMaterial3D_fwdeo")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light/chir7" unique_id=1872908976]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light/chir7/StaticBody3D" unique_id=1864915797]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="lights/light" unique_id=762964920]
+transform = Transform3D(1, 1.5685796e-22, 0, -1.5685795e-22, 1, -1.0658141e-14, 0, 1.0658141e-14, 1, -4.765, 7.908, 12.373)
+
+[node name="light2" type="Node3D" parent="lights" unique_id=274041693]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -11.69, -4.28, 23.236)
+
+[node name="chir6" type="MeshInstance3D" parent="lights/light2" unique_id=2101451283]
+transform = Transform3D(1, 0, 0, 0, 0.25, 0, 0, 0, 1, -4.7647133, 8.2566805, 12.372731)
+material_override = SubResource("StandardMaterial3D_t54wm")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light2/chir6" unique_id=1954359743]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light2/chir6/StaticBody3D" unique_id=1285477821]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir8" type="MeshInstance3D" parent="lights/light2" unique_id=40773818]
+transform = Transform3D(0.9, 0, 0, 0, 0.25, 0, 0, 0, 0.9, -4.765, 8.256, 12.373)
+material_override = SubResource("StandardMaterial3D_vbmue")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light2/chir8" unique_id=340933848]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light2/chir8/StaticBody3D" unique_id=266394500]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir7" type="MeshInstance3D" parent="lights/light2" unique_id=488636730]
+transform = Transform3D(0.2, 0, 0, 0, 0.25, 0, 0, 0, 0.2, -4.765, 8.652, 12.373)
+material_override = SubResource("StandardMaterial3D_fwdeo")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light2/chir7" unique_id=1881138982]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light2/chir7/StaticBody3D" unique_id=1865936183]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="lights/light2" unique_id=329128054]
+transform = Transform3D(1, 1.5685796e-22, 0, -1.5685795e-22, 1, -1.0658141e-14, 0, 1.0658141e-14, 1, -4.765, 7.908, 12.373)
+
+[node name="light3" type="Node3D" parent="lights" unique_id=60747689]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -12.765, -4.28, 13.511)
+
+[node name="chir6" type="MeshInstance3D" parent="lights/light3" unique_id=176112989]
+transform = Transform3D(1, 0, 0, 0, 0.25, 0, 0, 0, 1, -4.7647133, 8.2566805, 12.372731)
+material_override = SubResource("StandardMaterial3D_t54wm")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light3/chir6" unique_id=1225357546]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light3/chir6/StaticBody3D" unique_id=963201849]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir8" type="MeshInstance3D" parent="lights/light3" unique_id=534747176]
+transform = Transform3D(0.9, 0, 0, 0, 0.25, 0, 0, 0, 0.9, -4.765, 8.256, 12.373)
+material_override = SubResource("StandardMaterial3D_vbmue")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light3/chir8" unique_id=1710034746]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light3/chir8/StaticBody3D" unique_id=1730926985]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir7" type="MeshInstance3D" parent="lights/light3" unique_id=1203205582]
+transform = Transform3D(0.2, 0, 0, 0, 0.25, 0, 0, 0, 0.2, -4.765, 8.652, 12.373)
+material_override = SubResource("StandardMaterial3D_fwdeo")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light3/chir7" unique_id=388955733]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light3/chir7/StaticBody3D" unique_id=348173339]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="lights/light3" unique_id=392010892]
+transform = Transform3D(1, 1.5685796e-22, 0, -1.5685795e-22, 1, -1.0658141e-14, 0, 1.0658141e-14, 1, -4.765, 7.908, 12.373)
+
+[node name="light4" type="Node3D" parent="lights" unique_id=243783440]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -5.02, -4.28, 12.341)
+
+[node name="chir6" type="MeshInstance3D" parent="lights/light4" unique_id=463188384]
+transform = Transform3D(1, 0, 0, 0, 0.25, 0, 0, 0, 1, -4.7647133, 8.2566805, 12.372731)
+material_override = SubResource("StandardMaterial3D_t54wm")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light4/chir6" unique_id=367970115]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light4/chir6/StaticBody3D" unique_id=747679797]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir8" type="MeshInstance3D" parent="lights/light4" unique_id=79843973]
+transform = Transform3D(0.9, 0, 0, 0, 0.25, 0, 0, 0, 0.9, -4.765, 8.256, 12.373)
+material_override = SubResource("StandardMaterial3D_vbmue")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light4/chir8" unique_id=1852343708]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light4/chir8/StaticBody3D" unique_id=1976945919]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir7" type="MeshInstance3D" parent="lights/light4" unique_id=1534056181]
+transform = Transform3D(0.2, 0, 0, 0, 0.25, 0, 0, 0, 0.2, -4.765, 8.652, 12.373)
+material_override = SubResource("StandardMaterial3D_fwdeo")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light4/chir7" unique_id=918706247]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light4/chir7/StaticBody3D" unique_id=1084800458]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="lights/light4" unique_id=120522680]
+transform = Transform3D(1, 1.5685796e-22, 0, -1.5685795e-22, 1, -1.0658141e-14, 0, 1.0658141e-14, 1, -4.765, 7.908, 12.373)
+
+[node name="light5" type="Node3D" parent="lights" unique_id=1426682927]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.905, -4.28, 13.886)
+
+[node name="chir6" type="MeshInstance3D" parent="lights/light5" unique_id=240771146]
+transform = Transform3D(1, 0, 0, 0, 0.25, 0, 0, 0, 1, -4.7647133, 8.2566805, 12.372731)
+material_override = SubResource("StandardMaterial3D_t54wm")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light5/chir6" unique_id=53388379]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light5/chir6/StaticBody3D" unique_id=1917782459]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir8" type="MeshInstance3D" parent="lights/light5" unique_id=687318066]
+transform = Transform3D(0.9, 0, 0, 0, 0.25, 0, 0, 0, 0.9, -4.765, 8.256, 12.373)
+material_override = SubResource("StandardMaterial3D_vbmue")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light5/chir8" unique_id=1697599946]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light5/chir8/StaticBody3D" unique_id=71050695]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir7" type="MeshInstance3D" parent="lights/light5" unique_id=2088626396]
+transform = Transform3D(0.2, 0, 0, 0, 0.25, 0, 0, 0, 0.2, -4.765, 8.652, 12.373)
+material_override = SubResource("StandardMaterial3D_fwdeo")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light5/chir7" unique_id=906313163]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light5/chir7/StaticBody3D" unique_id=2013189012]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="lights/light5" unique_id=470846811]
+transform = Transform3D(1, 1.5685796e-22, 0, -1.5685795e-22, 1, -1.0658141e-14, 0, 1.0658141e-14, 1, -4.765, 7.908, 12.373)
+
+[node name="light6" type="Node3D" parent="lights" unique_id=1863075603]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.905, -4.28, 18.446)
+
+[node name="chir6" type="MeshInstance3D" parent="lights/light6" unique_id=663506603]
+transform = Transform3D(1, 0, 0, 0, 0.25, 0, 0, 0, 1, -4.7647133, 8.2566805, 12.372731)
+material_override = SubResource("StandardMaterial3D_t54wm")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light6/chir6" unique_id=1536211257]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light6/chir6/StaticBody3D" unique_id=1245521032]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir8" type="MeshInstance3D" parent="lights/light6" unique_id=1540378485]
+transform = Transform3D(0.9, 0, 0, 0, 0.25, 0, 0, 0, 0.9, -4.765, 8.256, 12.373)
+material_override = SubResource("StandardMaterial3D_vbmue")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light6/chir8" unique_id=1894795450]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light6/chir8/StaticBody3D" unique_id=149642100]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir7" type="MeshInstance3D" parent="lights/light6" unique_id=540829461]
+transform = Transform3D(0.2, 0, 0, 0, 0.25, 0, 0, 0, 0.2, -4.765, 8.652, 12.373)
+material_override = SubResource("StandardMaterial3D_fwdeo")
+mesh = SubResource("CylinderMesh_suf1n")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light6/chir7" unique_id=1900119798]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light6/chir7/StaticBody3D" unique_id=492561200]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="lights/light6" unique_id=1107745072]
+transform = Transform3D(1, 1.5685796e-22, 0, -1.5685795e-22, 1, -1.0658141e-14, 0, 1.0658141e-14, 1, -4.765, 7.908, 12.373)
