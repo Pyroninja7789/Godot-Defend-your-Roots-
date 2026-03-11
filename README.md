@@ -4,3 +4,7 @@ Your defencd your home from 2 developers who attempt to invade your home to take
 
 Unit 4 project
 Luke and Theo
+
+Credits
+Musket Model by Andy Woodhead on sketchfab
+Sabre Model by Leeek on sketchfab
