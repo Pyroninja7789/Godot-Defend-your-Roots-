@@ -1,0 +1,100 @@
+[gd_scene format=3 uid="uid://cv3og68xlljoj"]
+
+[ext_resource type="Script" uid="uid://bj7lecgr4a5wu" path="res://FPSController/fps_controller.gd" id="1_jryqt"]
+[ext_resource type="PackedScene" uid="uid://c6705e867b8kn" path="res://models/1788_heavy_cavalry_sword_with_quarter_basket.glb" id="2_oijtd"]
+[ext_resource type="PackedScene" uid="uid://gvm0me264r32" path="res://models/disguise-glasses.glb" id="2_vcg3l"]
+[ext_resource type="PackedScene" uid="uid://b4dn8ocw2lfx5" path="res://models/musket_with_creepy_hands.glb" id="3_vcg3l"]
+[ext_resource type="PackedScene" uid="uid://dfguof2ejr8mp" path="res://models/hair.glb" id="4_2veyp"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_f6xud"]
+
+[sub_resource type="Animation" id="Animation_oijtd"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 1, 2)]
+}
+
+[sub_resource type="Animation" id="Animation_48f3b"]
+resource_name = "swing"
+length = 0.6
+step = 0.01
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.01999999, 0.039999995, 0.060000002, 0.07999999, 0.099999994, 0.11999999, 0.14, 0.16, 0.17999999, 0.19999999, 0.21999998, 0.24000001, 0.26, 0.27999997, 0.3, 0.6),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector3(0, 1, 2), Vector3(0, 1, 1.8), Vector3(0, 1, 1.6), Vector3(0, 1, 1.4), Vector3(0, 1, 1.2), Vector3(0, 1, 1), Vector3(0, 1, 0.8), Vector3(0, 1, 0.6), Vector3(0, 1, 0.4), Vector3(0, 1, 0.2), Vector3(0, 1, 0), Vector3(0, 1, -0.20000005), Vector3(0, 1, -0.4), Vector3(0, 1, -0.6), Vector3(0, 1, -0.8), Vector3(0, 1, -1), Vector3(0, 1, 2)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_o2vjx"]
+_data = {
+&"RESET": SubResource("Animation_oijtd"),
+&"swing": SubResource("Animation_48f3b")
+}
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_2veyp"]
+
+[node name="CharacterBody3D" type="CharacterBody3D" unique_id=594631582]
+script = ExtResource("1_jryqt")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1996626849]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("CapsuleShape3D_f6xud")
+
+[node name="Sword" parent="." unique_id=254798270 instance=ExtResource("2_oijtd")]
+unique_name_in_owner = true
+transform = Transform3D(-0.002, 0, -1.7484555e-10, 0, 0.002, 0, 1.7484555e-10, 0, -0.002, 0, 1, 2)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sword" unique_id=481873265]
+unique_name_in_owner = true
+libraries/ = SubResource("AnimationLibrary_o2vjx")
+autoplay = &"swing"
+
+[node name="WorldModel" type="Node3D" parent="." unique_id=1504270085]
+unique_name_in_owner = true
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="WorldModel" unique_id=1895784322]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+mesh = SubResource("CapsuleMesh_2veyp")
+
+[node name="hair" parent="WorldModel" unique_id=1944411836 instance=ExtResource("4_2veyp")]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1.9, 0)
+
+[node name="disguise-glasses" parent="WorldModel" unique_id=429618214 instance=ExtResource("2_vcg3l")]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.001, 1.4075348, -0.2736144)
+
+[node name="Head" type="Node3D" parent="." unique_id=1439275916]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.79, 0)
+
+[node name="Camera3D" type="Camera3D" parent="Head" unique_id=1807627583]
+unique_name_in_owner = true
+cull_mask = 1048573
+
+[node name="Sketchfab_Scene" parent="Head" unique_id=349649164 instance=ExtResource("3_vcg3l")]
+unique_name_in_owner = true
+transform = Transform3D(-4.371139e-09, 0, 0.1, 0, 0.1, 0, -0.1, 0, -4.371139e-09, 0.2, -0.502, -0.908)
+
+[node name="RayCast3D" type="RayCast3D" parent="Head" unique_id=1103843188]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, -0.34997332)
+target_position = Vector3(0, -25, 0)
+collision_mask = 15
+
+[node name="MeleeRayCast" type="RayCast3D" parent="Head" unique_id=942525331]
+transform = Transform3D(0.9999254, 0.012216985, 2.2250903e-08, 2.1789587e-08, 3.7893262e-08, -1.0000001, -0.012216985, 0.9999254, 3.7624236e-08, 0, -0.5998149, -0.423)
+target_position = Vector3(0, -2.5, 0)
