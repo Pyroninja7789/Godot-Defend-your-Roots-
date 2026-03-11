@@ -1,0 +1,263 @@
+[gd_scene format=3 uid="uid://cv3og68xlljoj"]
+
+[ext_resource type="Script" uid="uid://bj7lecgr4a5wu" path="res://FPSController/fps_controller.gd" id="1_jryqt"]
+[ext_resource type="PackedScene" uid="uid://c6705e867b8kn" path="res://models/1788_heavy_cavalry_sword_with_quarter_basket.glb" id="2_oijtd"]
+[ext_resource type="PackedScene" uid="uid://gvm0me264r32" path="res://models/disguise-glasses.glb" id="2_vcg3l"]
+[ext_resource type="PackedScene" uid="uid://b4dn8ocw2lfx5" path="res://models/musket_with_creepy_hands.glb" id="3_vcg3l"]
+[ext_resource type="PackedScene" uid="uid://dfguof2ejr8mp" path="res://models/hair.glb" id="4_2veyp"]
+[ext_resource type="Script" uid="uid://c3ryimwlpmvh2" path="res://FPSController/canvas_layer.gd" id="6_48f3b"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_f6xud"]
+
+[sub_resource type="Animation" id="Animation_oijtd"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 1, 2)]
+}
+
+[sub_resource type="Animation" id="Animation_48f3b"]
+resource_name = "swing"
+length = 0.6
+step = 0.01
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.01999999, 0.039999995, 0.060000002, 0.07999999, 0.099999994, 0.11999999, 0.14, 0.16, 0.17999999, 0.19999999, 0.21999998, 0.24000001, 0.26, 0.27999997, 0.3, 0.6),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector3(0, 1, 2), Vector3(0, 1, 1.8), Vector3(0, 1, 1.6), Vector3(0, 1, 1.4), Vector3(0, 1, 1.2), Vector3(0, 1, 1), Vector3(0, 1, 0.8), Vector3(0, 1, 0.6), Vector3(0, 1, 0.4), Vector3(0, 1, 0.2), Vector3(0, 1, 0), Vector3(0, 1, -0.20000005), Vector3(0, 1, -0.4), Vector3(0, 1, -0.6), Vector3(0, 1, -0.8), Vector3(0, 1, -1), Vector3(0, 1, 2)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_o2vjx"]
+_data = {
+&"RESET": SubResource("Animation_oijtd"),
+&"swing": SubResource("Animation_48f3b")
+}
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_2veyp"]
+
+[sub_resource type="Animation" id="Animation_o2vjx"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("%Sketchfab_Scene:rotation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 1.5707964, 0.08726646)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("%Sketchfab_Scene:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, -0.502, -0.908)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("%Sketchfab_Scene/CPUParticles3D:emitting")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [false]
+}
+
+[sub_resource type="Animation" id="Animation_0gnew"]
+resource_name = "shooting&reloading"
+length = 7.0
+step = 0.05
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("%Sketchfab_Scene:rotation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0.3, 0.6000001, 0.8, 1, 1.05, 1.2000507, 2, 7),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector3(0, 1.5707964, 0), Vector3(0, 1.5707964, 0.08726646), Vector3(0, 1.5707964, 0.7853982), Vector3(0, 1.5707964, 0.34906584), Vector3(0, 1.5707964, 0), Vector3(0, 1.5707964, 0.24810441), Vector3(0, 1.5707964, 1.5707964), Vector3(0, 1.5707964, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("%Sketchfab_Scene:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.44000006, 1.2000507, 2, 7),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector3(0.2, -0.502, -0.908), Vector3(0, -0.502, -1), Vector3(0, -0.502, -0.75), Vector3(0.24, -0.5, -1), Vector3(0.5, -1, -0.75), Vector3(0.2, -0.5, -0.75)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("%Sketchfab_Scene/CPUParticles3D:emitting")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0.3),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_24kai"]
+_data = {
+&"RESET": SubResource("Animation_o2vjx"),
+&"shooting&reloading": SubResource("Animation_0gnew")
+}
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_48f3b"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_o2vjx"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_48f3b"]
+size = Vector3(0.25, 0.25, 0.25)
+
+[sub_resource type="Gradient" id="Gradient_o2vjx"]
+offsets = PackedFloat32Array(0, 0.9953271, 1)
+colors = PackedColorArray(1, 1, 1, 1, 0.9119663, 0.93345326, 1, 1, 1, 1, 1, 1)
+
+[sub_resource type="GradientTexture1D" id="GradientTexture1D_0gnew"]
+gradient = SubResource("Gradient_o2vjx")
+width = 50
+
+[node name="CharacterBody3D" type="CharacterBody3D" unique_id=594631582]
+script = ExtResource("1_jryqt")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1996626849]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("CapsuleShape3D_f6xud")
+
+[node name="Sword" parent="." unique_id=254798270 instance=ExtResource("2_oijtd")]
+unique_name_in_owner = true
+transform = Transform3D(-0.002, 0, -1.7484555e-10, 0, 0.002, 0, 1.7484555e-10, 0, -0.002, 0, 1, 2)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sword" unique_id=481873265]
+unique_name_in_owner = true
+libraries/ = SubResource("AnimationLibrary_o2vjx")
+autoplay = &"swing"
+
+[node name="WorldModel" type="Node3D" parent="." unique_id=1504270085]
+unique_name_in_owner = true
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="WorldModel" unique_id=1895784322]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+mesh = SubResource("CapsuleMesh_2veyp")
+
+[node name="MusketAnimation" type="AnimationPlayer" parent="WorldModel/MeshInstance3D" unique_id=1889534323]
+unique_name_in_owner = true
+libraries/ = SubResource("AnimationLibrary_24kai")
+
+[node name="hair" parent="WorldModel" unique_id=1944411836 instance=ExtResource("4_2veyp")]
+transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 1.8759781, 0)
+
+[node name="disguise-glasses" parent="WorldModel" unique_id=429618214 instance=ExtResource("2_vcg3l")]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.001, 1.4075348, -0.2736144)
+
+[node name="Head" type="Node3D" parent="." unique_id=1439275916]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.79, 0)
+
+[node name="Sketchfab_Scene" parent="Head" unique_id=349649164 instance=ExtResource("3_vcg3l")]
+unique_name_in_owner = true
+transform = Transform3D(-4.3545056e-09, 3.8096984e-10, 0.1, 0.008715574, 0.09961947, 0, -0.09961947, 0.008715574, -4.371139e-09, 0, -0.502, -0.908)
+
+[node name="CPUParticles3D" type="CPUParticles3D" parent="Head/Sketchfab_Scene" unique_id=462322937]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 24.024534, 0.16978455, 0.011824846)
+material_override = SubResource("ShaderMaterial_48f3b")
+material_overlay = SubResource("StandardMaterial3D_o2vjx")
+emitting = false
+amount = 50
+lifetime = 0.09999999999999999
+one_shot = true
+mesh = SubResource("BoxMesh_48f3b")
+direction = Vector3(2, 0, 0)
+spread = 15.0
+gravity = Vector3(0, 0, 0)
+initial_velocity_min = 1000.0
+initial_velocity_max = 1000.0
+scale_amount_min = 0.25
+scale_amount_max = 0.5
+color = Color(0.30270457, 0.30270457, 0.30270457, 1)
+
+[node name="RayCast3D" type="RayCast3D" parent="Head" unique_id=1103843188]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, -0.34997332)
+target_position = Vector3(0, -25, 0)
+collision_mask = 15
+
+[node name="MeleeRayCast" type="RayCast3D" parent="Head" unique_id=942525331]
+transform = Transform3D(0.9999254, 0.012216985, 2.2250903e-08, 2.1789587e-08, 3.7893262e-08, -1.0000001, -0.012216985, 0.9999254, 3.7624236e-08, 0, -0.5998149, -0.423)
+target_position = Vector3(0, -2.5, 0)
+
+[node name="Camera3D" type="Camera3D" parent="Head" unique_id=1807627583]
+unique_name_in_owner = true
+cull_mask = 1048573
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=38655517]
+script = ExtResource("6_48f3b")
+
+[node name="Control" type="Control" parent="CanvasLayer" unique_id=1386288906]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+mouse_behavior_recursive = 1
+
+[node name="Label" type="Label" parent="CanvasLayer/Control" unique_id=1430156437]
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 0
+offset_top = 593.0
+offset_right = 100.0
+offset_bottom = 648.0
+theme_override_font_sizes/font_size = 40
+text = "100"
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Control" unique_id=1871164869]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1.0
+offset_top = -1.0
+offset_right = 1.0
+offset_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = SubResource("GradientTexture1D_0gnew")
+expand_mode = 1
+flip_v = true
