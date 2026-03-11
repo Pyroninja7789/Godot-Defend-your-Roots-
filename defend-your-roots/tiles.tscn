@@ -1,0 +1,1842 @@
+[gd_scene format=3 uid="uid://db13akchpwav2"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_qra7f"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_d6bvg"]
+albedo_color = Color(0.46749413, 0.20107484, 4.813075e-08, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_qra7f"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_341ea"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xlp04"]
+albedo_color = Color(0.7764706, 0.7764706, 0.5137255, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_qra7f"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_srh3t"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0bd87"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7h0kd"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_38uyi"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7ivye"]
+albedo_color = Color(1, 0.8475911, 0.5530306, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_g5a20"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wxgha"]
+albedo_color = Color(0.7882353, 0.45490196, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_sxt1b"]
+albedo_color = Color(0.7882353, 0.45490196, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gjn3x"]
+albedo_color = Color(0.7882353, 0.45490196, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hkurt"]
+albedo_color = Color(0.7882353, 0.45490196, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8mo23"]
+albedo_color = Color(0.78649175, 0.45560718, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_w18sb"]
+albedo_color = Color(0.7882353, 0.45490196, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6e3qa"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_endm6"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_y1754"]
+albedo_color = Color(0.56078434, 0.58431375, 0.76862746, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_vra4g"]
+albedo_color = Color(0.11765846, 0.11765846, 0.11765846, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_u02i4"]
+albedo_color = Color(0.43959734, 0.43959734, 0.43959734, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_rkejw"]
+albedo_color = Color(0.5525154, 0.5525154, 0.5525154, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8tkme"]
+albedo_color = Color(0.56496125, 0.56496125, 0.56496125, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_658bn"]
+albedo_color = Color(0.27310807, 0.27310807, 0.27310807, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_d17i1"]
+albedo_color = Color(0.6077426, 0.73035115, 0.73035115, 1)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_0bd87"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_khnvu"]
+albedo_color = Color(0.1363554, 0.1363554, 0.1363554, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ceiah"]
+albedo_color = Color(0.39140025, 0.39140025, 0.39140025, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_b7lvl"]
+albedo_color = Color(0.7529412, 0.7529412, 0.7529412, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_pv6v3"]
+albedo_color = Color(0.27058825, 1, 1, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6r5al"]
+albedo_color = Color(1.0627335, 1.0627335, 1.0627335, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_515i1"]
+albedo_color = Color(0.56496125, 0.56496125, 0.56496125, 1)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_t54wm"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_suf1n"]
+albedo_color = Color(0.77178055, 0.77178055, 0.77178055, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_m8ja4"]
+albedo_color = Color(0.12676667, 0.12676667, 0.12676667, 1)
+
+[sub_resource type="Skin" id="Skin_vbmue"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_edjiw"]
+vertex_color_is_srgb = true
+albedo_color = Color(0.9098039, 0.41960785, 0.46666667, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_jlbcp"]
+albedo_color = Color(0.31964192, 0.32304695, 0.3366672, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_k6t24"]
+albedo_color = Color(0.8745098, 0.84313726, 0.78431374, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7osof"]
+albedo_color = Color(0.90588236, 1, 0.23921569, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_rnsht"]
+albedo_color = Color(1, 0.101960786, 0.14509805, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_jygf0"]
+albedo_color = Color(0.28155392, 0.28155392, 0.28155392, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ryv5w"]
+albedo_color = Color(0.2509804, 1, 1, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_glg8d"]
+albedo_color = Color(0.45490196, 0.41960785, 0.3529412, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_4mq60"]
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_u02i4"]
+
+[node name="Objects to collide with" type="Node3D" unique_id=1059062920]
+
+[node name="room" type="Node3D" parent="." unique_id=1466242836]
+
+[node name="floor_kitchen" type="MeshInstance3D" parent="room" unique_id=535901929]
+transform = Transform3D(20, 0, 0, 0, 1, 0, 0, 0, 20, -2, 0, 6)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_d6bvg")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/floor_kitchen" unique_id=154263896]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/floor_kitchen/StaticBody3D" unique_id=1154048213]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="roof" type="MeshInstance3D" parent="room" unique_id=1764485946]
+transform = Transform3D(20, 0, 0, 0, 1, 0, 0, 0, 20, -2, 5, 6)
+visible = false
+material_override = SubResource("StandardMaterial3D_341ea")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_xlp04")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/roof" unique_id=2878896]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/roof/StaticBody3D" unique_id=660327784]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="floor_bottom stairs" type="MeshInstance3D" parent="room" unique_id=337989645]
+transform = Transform3D(7, 0, 0, 0, 5, 0, 0, 0, 3, -2, 2.5, 5)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/floor_bottom stairs" unique_id=729059229]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/floor_bottom stairs/StaticBody3D" unique_id=708998683]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="floor_bottom stairs2" type="MeshInstance3D" parent="room" unique_id=1466482255]
+transform = Transform3D(7, 0, 0, 0, 5, 0, 0, 0, 3, -2, 2.5, 5)
+material_override = SubResource("StandardMaterial3D_srh3t")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_0bd87")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/floor_bottom stairs2" unique_id=522218609]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/floor_bottom stairs2/StaticBody3D" unique_id=1439877832]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="player" type="MeshInstance3D" parent="room" unique_id=69209290]
+transform = Transform3D(0.9973042, 0, 0.07337743, 0, 2, 0, -0.07337743, 0, 0.9973042, 2.1283872, 1.5258615, 2.4989424)
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/player" unique_id=1825153803]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/player/StaticBody3D" unique_id=562409699]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 6" type="MeshInstance3D" parent="room" unique_id=1621079938]
+transform = Transform3D(1, 0, 0, 0, 5, 0, 0, 0, 9, 2, 2, 13)
+material_override = SubResource("StandardMaterial3D_7h0kd")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 6" unique_id=661088716]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 6/StaticBody3D" unique_id=1206338401]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 5" type="MeshInstance3D" parent="room" unique_id=1130042642]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 1, 5, 2, 9)
+material_override = SubResource("StandardMaterial3D_7h0kd")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 5" unique_id=1868860684]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 5/StaticBody3D" unique_id=511899622]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 4" type="MeshInstance3D" parent="room" unique_id=1971726732]
+transform = Transform3D(14, 0, 0, 0, 5, 0, 0, 0, 1, -5.5, 2, 16)
+material_override = SubResource("StandardMaterial3D_7h0kd")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 4" unique_id=1441029313]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 4/StaticBody3D" unique_id=962833949]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 3" type="MeshInstance3D" parent="room" unique_id=2131333817]
+transform = Transform3D(21, 0, 0, 0, 5, 0, 0, 0, 1, -2, 2, -4)
+material_override = SubResource("StandardMaterial3D_7h0kd")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 3" unique_id=519258863]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 3/StaticBody3D" unique_id=1767592578]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 11" type="MeshInstance3D" parent="room" unique_id=1765867572]
+transform = Transform3D(-4.371139e-09, 0, 4, 0, 5, 0, -0.1, 0, -1.7484555e-07, -12, 2.5, 6.45)
+material_override = SubResource("StandardMaterial3D_38uyi")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_7ivye")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 11" unique_id=405493097]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 11/StaticBody3D" unique_id=1835680409]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 10" type="MeshInstance3D" parent="room" unique_id=562125694]
+transform = Transform3D(-4.371139e-09, 0, 2, 0, 5, 0, -0.1, 0, -8.742278e-08, -6.5, 2.5, 6.45)
+material_override = SubResource("StandardMaterial3D_g5a20")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 10" unique_id=417744204]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 10/StaticBody3D" unique_id=668627583]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 19" type="MeshInstance3D" parent="room" unique_id=1662881262]
+transform = Transform3D(-4.371139e-09, 0, 2.5, 0, 1, 0, -0.1, 0, -1.09278474e-07, -8.75, 4.5, 6.45)
+material_override = SubResource("StandardMaterial3D_g5a20")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 19" unique_id=786389181]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 19/StaticBody3D" unique_id=1666308032]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 20" type="MeshInstance3D" parent="room" unique_id=1483994397]
+transform = Transform3D(0.1, 0, 0, 0, 1, 0, 0, 0, 2.5, 1, 4.5, 2.75)
+material_override = SubResource("StandardMaterial3D_g5a20")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 20" unique_id=125734958]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 20/StaticBody3D" unique_id=706531032]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 22" type="MeshInstance3D" parent="room" unique_id=11460826]
+transform = Transform3D(0.1, 0, 0, 0, 1, 0, 0, 0, 2.1, 1.45, 4.5, 7.6)
+material_override = SubResource("StandardMaterial3D_g5a20")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 22" unique_id=1188071389]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 22/StaticBody3D" unique_id=1645932753]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 21" type="MeshInstance3D" parent="room" unique_id=1205879658]
+transform = Transform3D(0.1, 0, 0, 0, 1, 0, 0, 0, 2, -2, 4.5, 0.5)
+material_override = SubResource("StandardMaterial3D_g5a20")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 21" unique_id=802821093]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 21/StaticBody3D" unique_id=104055301]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 14" type="MeshInstance3D" parent="room" unique_id=997697105]
+transform = Transform3D(0.010973431, 0, -1.987922, 0, 5, 0, 0.0993961, 0, 0.21946862, 2.4700341, 1.5, 8.347738)
+material_override = SubResource("StandardMaterial3D_wxgha")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 14" unique_id=426868530]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 14/StaticBody3D" unique_id=1086855820]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 13" type="MeshInstance3D" parent="room" unique_id=1946133573]
+transform = Transform3D(0.09961948, 0, -0.17431147, 0, 5, 0, 0.008715575, 0, 1.9923894, 1.1769071, 1.5, 0.52825356)
+material_override = SubResource("StandardMaterial3D_sxt1b")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 13" unique_id=430706928]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 13/StaticBody3D" unique_id=302434999]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 15" type="MeshInstance3D" parent="room" unique_id=686782528]
+transform = Transform3D(-0.092314996, 0, -0.7688805, 0, 5.0000005, 0, 0.03844403, 0, -1.8462998, -10.3935, 1.5, 5.546694)
+material_override = SubResource("StandardMaterial3D_gjn3x")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 15" unique_id=163390571]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 15/StaticBody3D" unique_id=367677705]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 17" type="MeshInstance3D" parent="room" unique_id=520193037]
+transform = Transform3D(0.1, 0, 0, 0, 5, 0, 0, 0, 2, 1.5, 1.5, 14)
+material_override = SubResource("StandardMaterial3D_hkurt")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 17" unique_id=801733801]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 17/StaticBody3D" unique_id=2010204940]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 18" type="MeshInstance3D" parent="room" unique_id=409881579]
+transform = Transform3D(-4.371139e-09, 0, 2, 0, 5, 0, -0.1, 0, -8.742278e-08, -0.5, 1.5, 3.5)
+material_override = SubResource("StandardMaterial3D_8mo23")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 18" unique_id=1074996064]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 18/StaticBody3D" unique_id=1360836573]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 16" type="MeshInstance3D" parent="room" unique_id=828258690]
+transform = Transform3D(-4.371139e-09, 0, 2, 0, 5, 0, -0.1, 0, -8.742278e-08, -0.5, 1.5, -3.5)
+material_override = SubResource("StandardMaterial3D_8mo23")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 16" unique_id=1854681408]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 16/StaticBody3D" unique_id=1348569479]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 12" type="MeshInstance3D" parent="room" unique_id=584594026]
+transform = Transform3D(-0.069465846, 0, -1.4386795, 0, 5, 0, 0.07193398, 0, -1.3893169, -2.7395253, 1.5, -1.1820072)
+material_override = SubResource("StandardMaterial3D_w18sb")
+mesh = SubResource("BoxMesh_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 12" unique_id=115910782]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 12/StaticBody3D" unique_id=1876556319]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 9" type="MeshInstance3D" parent="room" unique_id=723370053]
+transform = Transform3D(0.1, 0, 0, 0, 5, 0, 0, 0, 4, -2, 2.5, 3.5)
+material_override = SubResource("StandardMaterial3D_6e3qa")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_7ivye")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 9" unique_id=486131781]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 9/StaticBody3D" unique_id=1055483588]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 8" type="MeshInstance3D" parent="room" unique_id=728261040]
+transform = Transform3D(0.1, 0, 0, 0, 5, 0, 0, 0, 13, -2, 2.5, -7)
+material_override = SubResource("StandardMaterial3D_endm6")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 8" unique_id=97817163]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 8/StaticBody3D" unique_id=1051679291]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 7" type="MeshInstance3D" parent="room" unique_id=1585773184]
+transform = Transform3D(0.1, 0, 0, 0, 5, 0, 0, 0, 13, 1, 2.5, -5)
+material_override = SubResource("StandardMaterial3D_y1754")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 7" unique_id=36103949]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 7/StaticBody3D" unique_id=151714540]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall 2" type="MeshInstance3D" parent="room" unique_id=765302965]
+transform = Transform3D(1, 0, 0, 0, 5, 0, 0, 0, 13, 8, 2, 3)
+material_override = SubResource("StandardMaterial3D_7h0kd")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall 2" unique_id=1125537929]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall 2/StaticBody3D" unique_id=1983630324]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="wall" type="MeshInstance3D" parent="room" unique_id=194935293]
+transform = Transform3D(1, 0, 0, 0, 5, 0, 0, 0, 19, -12, 2, 6)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_qra7f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="room/wall" unique_id=705044620]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="room/wall/StaticBody3D" unique_id=862169321]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="kitchen full" type="Node3D" parent="." unique_id=987394744]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -10, 0)
+
+[node name="centre island kitchen" type="Node3D" parent="kitchen full" unique_id=683193250]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 1, 0, -2.5)
+
+[node name="cubard" type="MeshInstance3D" parent="kitchen full/centre island kitchen" unique_id=1547780970]
+transform = Transform3D(5.45, 0, 0, 0, 0.1, 0, 0, 0, 1.85, 4.9, 11.7, -3)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_vra4g")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/centre island kitchen/cubard" unique_id=2001688962]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/centre island kitchen/cubard/StaticBody3D" unique_id=23595328]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Sink and oven" type="MeshInstance3D" parent="kitchen full/centre island kitchen" unique_id=620704031]
+transform = Transform3D(5.35, 0, 0, 0, 1.25, 0, 0, 0, 1.75, 4.9, 11.1, -3)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/centre island kitchen/Sink and oven" unique_id=1071726255]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/centre island kitchen/Sink and oven/StaticBody3D" unique_id=275166459]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Counter" type="Node3D" parent="kitchen full" unique_id=2135583027]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 4, 0, -1.5)
+
+[node name="cubard4" type="MeshInstance3D" parent="kitchen full/Counter" unique_id=1697094344]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 5.95, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter/cubard4" unique_id=354034554]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter/cubard4/StaticBody3D" unique_id=1824636225]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard5" type="MeshInstance3D" parent="kitchen full/Counter" unique_id=2076476011]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 7, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter/cubard5" unique_id=1118696977]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter/cubard5/StaticBody3D" unique_id=1065455324]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard3" type="MeshInstance3D" parent="kitchen full/Counter" unique_id=1352671380]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 4.9, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter/cubard3" unique_id=119919359]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter/cubard3/StaticBody3D" unique_id=1961721889]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard2" type="MeshInstance3D" parent="kitchen full/Counter" unique_id=1745873621]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 3.85, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter/cubard2" unique_id=594554962]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter/cubard2/StaticBody3D" unique_id=1064599215]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard" type="MeshInstance3D" parent="kitchen full/Counter" unique_id=1726691115]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 2.8, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter/cubard" unique_id=279083009]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter/cubard/StaticBody3D" unique_id=1645029810]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Sink and oven" type="MeshInstance3D" parent="kitchen full/Counter" unique_id=1419635071]
+transform = Transform3D(5.35, 0, 0, 0, 1.25, 0, 0, 0, 1, 4.9, 11.1, -3)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter/Sink and oven" unique_id=1966217511]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter/Sink and oven/StaticBody3D" unique_id=2014565984]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Counter2" type="Node3D" parent="kitchen full" unique_id=1835827029]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 4, 2.7, -1.5)
+
+[node name="cubard4" type="MeshInstance3D" parent="kitchen full/Counter2" unique_id=488961791]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 5.95, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter2/cubard4" unique_id=2043799629]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter2/cubard4/StaticBody3D" unique_id=1563277878]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard5" type="MeshInstance3D" parent="kitchen full/Counter2" unique_id=1885050508]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 7, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter2/cubard5" unique_id=1519155163]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter2/cubard5/StaticBody3D" unique_id=486118832]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard3" type="MeshInstance3D" parent="kitchen full/Counter2" unique_id=168214124]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 4.9, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter2/cubard3" unique_id=29246800]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter2/cubard3/StaticBody3D" unique_id=618824317]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard2" type="MeshInstance3D" parent="kitchen full/Counter2" unique_id=627700820]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 3.85, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter2/cubard2" unique_id=1062070359]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter2/cubard2/StaticBody3D" unique_id=990005940]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard" type="MeshInstance3D" parent="kitchen full/Counter2" unique_id=689796992]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 2.8, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter2/cubard" unique_id=569076425]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter2/cubard/StaticBody3D" unique_id=426057704]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Sink and oven" type="MeshInstance3D" parent="kitchen full/Counter2" unique_id=1620740843]
+transform = Transform3D(5.35, 0, 0, 0, 1.25, 0, 0, 0, 1, 4.9, 11.1, -3)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter2/Sink and oven" unique_id=1852691342]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter2/Sink and oven/StaticBody3D" unique_id=340593846]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Counter3" type="Node3D" parent="kitchen full" unique_id=829464012]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 2.7, 0.02)
+
+[node name="cubard4" type="MeshInstance3D" parent="kitchen full/Counter3" unique_id=374116535]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 5.95, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter3/cubard4" unique_id=1899431432]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter3/cubard4/StaticBody3D" unique_id=629193239]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard5" type="MeshInstance3D" parent="kitchen full/Counter3" unique_id=269072868]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 7, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter3/cubard5" unique_id=1556703486]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter3/cubard5/StaticBody3D" unique_id=1639841819]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard3" type="MeshInstance3D" parent="kitchen full/Counter3" unique_id=1552999292]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 4.9, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter3/cubard3" unique_id=502343185]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter3/cubard3/StaticBody3D" unique_id=365282269]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard2" type="MeshInstance3D" parent="kitchen full/Counter3" unique_id=1302936373]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 3.85, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter3/cubard2" unique_id=20303559]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter3/cubard2/StaticBody3D" unique_id=501000817]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard" type="MeshInstance3D" parent="kitchen full/Counter3" unique_id=1221787184]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 2.8, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter3/cubard" unique_id=966858838]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter3/cubard/StaticBody3D" unique_id=1788095151]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Sink and oven" type="MeshInstance3D" parent="kitchen full/Counter3" unique_id=913555987]
+transform = Transform3D(5.35, 0, 0, 0, 1.25, 0, 0, 0, 1, 4.9, 11.1, -3)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Counter3/Sink and oven" unique_id=2098635569]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Counter3/Sink and oven/StaticBody3D" unique_id=418514494]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven" type="Node3D" parent="kitchen full" unique_id=178313263]
+
+[node name="Oven" type="MeshInstance3D" parent="kitchen full/Oven" unique_id=978467111]
+transform = Transform3D(1, 0, 0, 0, 1.55, 0, 0, 0, 1.5, 7, 11.25, -0.15)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_8tkme")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/Oven" unique_id=1442930415]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/Oven/StaticBody3D" unique_id=1491228285]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven2" type="MeshInstance3D" parent="kitchen full/Oven" unique_id=1282885336]
+transform = Transform3D(1.1, 0, 0, 0, 1.25, 0, 0, 0, 1.3, 7, 11.15, -0.15)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_8tkme")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/Oven2" unique_id=1864308604]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/Oven2/StaticBody3D" unique_id=349037367]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven4" type="MeshInstance3D" parent="kitchen full/Oven" unique_id=1713504080]
+transform = Transform3D(0.07, 0, 0, 0, 0.085, 0, 0, 0, 1.2, 6.371197, 11.711435, -0.15)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_658bn")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/Oven4" unique_id=1177047635]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/Oven4/StaticBody3D" unique_id=2085614557]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven5" type="MeshInstance3D" parent="kitchen full/Oven" unique_id=186835391]
+transform = Transform3D(-3.059797e-09, 0, 0.2, 0, 0.085, 0, -0.07, 0, -8.742278e-09, 6.5, 11.711, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_658bn")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/Oven5" unique_id=1455326381]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/Oven5/StaticBody3D" unique_id=899381683]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven6" type="MeshInstance3D" parent="kitchen full/Oven" unique_id=1081930409]
+transform = Transform3D(-3.059797e-09, 0, 0.2, 0, 0.085, 0, -0.07, 0, -8.742278e-09, 6.5, 11.711, -0.7)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_658bn")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/Oven6" unique_id=341820355]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/Oven6/StaticBody3D" unique_id=377876805]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven3" type="MeshInstance3D" parent="kitchen full/Oven" unique_id=1118851341]
+transform = Transform3D(1.15, 0, 0, 0, 1.1, 0, 0, 0, 1.25, 7, 11.1, -0.15)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_d17i1")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/Oven3" unique_id=1249923224]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/Oven3/StaticBody3D" unique_id=1643689324]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="nobs" type="Node3D" parent="kitchen full/Oven" unique_id=500457739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.05)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/nobs" unique_id=843187447]
+transform = Transform3D(-6.5567085e-09, -0.15, 0, 0.15, -6.5567085e-09, 0, 0, 0, 0.15, 6.5960913, 11.901324, 0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs/Oven7" unique_id=1923147229]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs/Oven7/StaticBody3D" unique_id=1504018171]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/nobs" unique_id=1123231447]
+transform = Transform3D(-1.5298985e-09, 0, 0.2, 0, 0.07, 0, -0.035, 0, -8.742278e-09, 6.5325446, 11.935997, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_ceiah")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs/Oven8" unique_id=1895416970]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs/Oven8/StaticBody3D" unique_id=615993922]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="hob" type="Node3D" parent="kitchen full/Oven" unique_id=115684896]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.05)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/hob" unique_id=1313430299]
+transform = Transform3D(0.4, 0, 0, 0, 0.1, 0, 0, 0, 0.4, 6.75, 11.95, 0.15)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/hob/Oven7" unique_id=622504568]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/hob/Oven7/StaticBody3D" unique_id=828333370]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven9" type="MeshInstance3D" parent="kitchen full/Oven/hob" unique_id=1232621745]
+transform = Transform3D(0.4, 0, 0, 0, 0.1, 0, 0, 0, 0.4, 7.2, 11.95, 0.15)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/hob/Oven9" unique_id=1835580429]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/hob/Oven9/StaticBody3D" unique_id=984710709]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/hob" unique_id=481570684]
+transform = Transform3D(0.4, 0, 0, 0, 0.1, 0, 0, 0, 0.4, 6.75, 11.95, -0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/hob/Oven8" unique_id=666929494]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/hob/Oven8/StaticBody3D" unique_id=672415885]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven10" type="MeshInstance3D" parent="kitchen full/Oven/hob" unique_id=977202096]
+transform = Transform3D(0.4, 0, 0, 0, 0.1, 0, 0, 0, 0.4, 7.2, 11.95, -0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/hob/Oven10" unique_id=552806575]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/hob/Oven10/StaticBody3D" unique_id=237236666]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="nobs2" type="Node3D" parent="kitchen full/Oven" unique_id=1026915950]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.05)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/nobs2" unique_id=1362144944]
+transform = Transform3D(-6.5567085e-09, -0.15, 0, 0.15, -6.5567085e-09, 0, 0, 0, 0.15, 6.5960913, 11.901324, 0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs2/Oven7" unique_id=57781450]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs2/Oven7/StaticBody3D" unique_id=2094972525]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/nobs2" unique_id=754104096]
+transform = Transform3D(-1.5298985e-09, 0, 0.2, 0, 0.07, 0, -0.035, 0, -8.742278e-09, 6.5325446, 11.935997, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_ceiah")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs2/Oven8" unique_id=687680038]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs2/Oven8/StaticBody3D" unique_id=395916058]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="nobs3" type="Node3D" parent="kitchen full/Oven" unique_id=492742008]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.85)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/nobs3" unique_id=1173236295]
+transform = Transform3D(-6.5567085e-09, -0.15, 0, 0.15, -6.5567085e-09, 0, 0, 0, 0.15, 6.5960913, 11.901324, 0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs3/Oven7" unique_id=392193162]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs3/Oven7/StaticBody3D" unique_id=2121778024]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/nobs3" unique_id=1913969399]
+transform = Transform3D(-1.5298985e-09, 0, 0.2, 0, 0.07, 0, -0.035, 0, -8.742278e-09, 6.5325446, 11.935997, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_ceiah")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs3/Oven8" unique_id=781899691]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs3/Oven8/StaticBody3D" unique_id=817669350]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="nobs4" type="Node3D" parent="kitchen full/Oven" unique_id=2082798220]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.65)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/nobs4" unique_id=217702140]
+transform = Transform3D(-6.5567085e-09, -0.15, 0, 0.15, -6.5567085e-09, 0, 0, 0, 0.15, 6.5960913, 11.901324, 0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs4/Oven7" unique_id=866017051]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs4/Oven7/StaticBody3D" unique_id=1859864341]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/nobs4" unique_id=1050097373]
+transform = Transform3D(-1.5298985e-09, 0, 0.2, 0, 0.07, 0, -0.035, 0, -8.742278e-09, 6.5325446, 11.935997, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_ceiah")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs4/Oven8" unique_id=1432231188]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs4/Oven8/StaticBody3D" unique_id=1208842823]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="nobs5" type="Node3D" parent="kitchen full/Oven" unique_id=300815619]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.25)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/nobs5" unique_id=814183510]
+transform = Transform3D(-6.5567085e-09, -0.15, 0, 0.15, -6.5567085e-09, 0, 0, 0, 0.15, 6.5960913, 11.901324, 0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs5/Oven7" unique_id=2072437188]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs5/Oven7/StaticBody3D" unique_id=1485169686]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/nobs5" unique_id=1169822327]
+transform = Transform3D(-1.5298985e-09, 0, 0.2, 0, 0.07, 0, -0.035, 0, -8.742278e-09, 6.5325446, 11.935997, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_ceiah")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs5/Oven8" unique_id=150212415]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs5/Oven8/StaticBody3D" unique_id=201547291]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="nobs6" type="Node3D" parent="kitchen full/Oven" unique_id=1194651505]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.45)
+
+[node name="Oven7" type="MeshInstance3D" parent="kitchen full/Oven/nobs6" unique_id=523131475]
+transform = Transform3D(-6.5567085e-09, -0.15, 0, 0.15, -6.5567085e-09, 0, 0, 0, 0.15, 6.5960913, 11.901324, 0.4)
+mesh = SubResource("CylinderMesh_0bd87")
+surface_material_override/0 = SubResource("StandardMaterial3D_khnvu")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs6/Oven7" unique_id=1991664623]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs6/Oven7/StaticBody3D" unique_id=956711750]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Oven8" type="MeshInstance3D" parent="kitchen full/Oven/nobs6" unique_id=1038836562]
+transform = Transform3D(-1.5298985e-09, 0, 0.2, 0, 0.07, 0, -0.035, 0, -8.742278e-09, 6.5325446, 11.935997, 0.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_ceiah")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Oven/nobs6/Oven8" unique_id=959738523]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Oven/nobs6/Oven8/StaticBody3D" unique_id=1707602591]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="sink" type="Node3D" parent="kitchen full" unique_id=1678399492]
+
+[node name="tap3" type="MeshInstance3D" parent="kitchen full/sink" unique_id=1321712226]
+transform = Transform3D(0.099999994, 0, 7.629073e-12, 7.629073e-12, -1.748453e-08, -0.10000001, 0, 0.4, -4.3711323e-09, 3.85, 12.2, -3.2)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_b7lvl")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/tap3" unique_id=1911074645]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/tap3/StaticBody3D" unique_id=762820232]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tap2" type="MeshInstance3D" parent="kitchen full/sink" unique_id=1436609831]
+transform = Transform3D(0.09999962, 0.00046514772, -0.0002290934, -0.00015539855, 0.29999933, -0.00015237245, 0.0002288566, 0.0004581836, 0.09999963, 3.85, 12.1, -2.95)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_b7lvl")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/tap2" unique_id=1902458846]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/tap2/StaticBody3D" unique_id=340516830]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tap" type="MeshInstance3D" parent="kitchen full/sink" unique_id=696909319]
+transform = Transform3D(0.099999614, 0.0017055279, -0.0002290942, -0.0001553985, 1.0999974, -0.00015237127, 0.00022885662, 0.0016800067, 0.099999614, 3.85, 11.7, -3.4)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_b7lvl")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/tap" unique_id=331350212]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/tap/StaticBody3D" unique_id=6742790]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Sink" type="MeshInstance3D" parent="kitchen full/sink" unique_id=1580512573]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 0.7, 3.85, 11.18, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_pv6v3")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/Sink" unique_id=1120750857]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/Sink/StaticBody3D" unique_id=550566024]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard4" type="MeshInstance3D" parent="kitchen full/sink" unique_id=1440725016]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 5.95, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/cubard4" unique_id=1423963685]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/cubard4/StaticBody3D" unique_id=1093801900]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard3" type="MeshInstance3D" parent="kitchen full/sink" unique_id=982471601]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 4.9, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/cubard3" unique_id=423935494]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/cubard3/StaticBody3D" unique_id=1445018042]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard2" type="MeshInstance3D" parent="kitchen full/sink" unique_id=773177544]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 3.85, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/cubard2" unique_id=354085175]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/cubard2/StaticBody3D" unique_id=1102691525]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cubard" type="MeshInstance3D" parent="kitchen full/sink" unique_id=876836801]
+transform = Transform3D(1, 0, 0, 0, 1.1, 0, 0, 0, 1, 2.8, 11.1, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_rkejw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/cubard" unique_id=1406953358]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/cubard/StaticBody3D" unique_id=685108385]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Sink and oven" type="MeshInstance3D" parent="kitchen full/sink" unique_id=1841937048]
+transform = Transform3D(5.35, 0, 0, 0, 1.25, 0, 0, 0, 1, 4.9, 11.1, -3)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/sink/Sink and oven" unique_id=728587025]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/sink/Sink and oven/StaticBody3D" unique_id=1105706275]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Washing machine" type="Node3D" parent="kitchen full" unique_id=1176213803]
+
+[node name="Dishwasher" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=575038483]
+transform = Transform3D(1, 0, 0, 0, 1.55, 0, 0, 0, 1.5, 7, 11.25, -1.7)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_6r5al")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/Dishwasher" unique_id=699595595]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/Dishwasher/StaticBody3D" unique_id=835188601]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Dishwasher4" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=1484913417]
+transform = Transform3D(0.2, 0, 0, 0, 0.15, 0, 0, 0, 0.3, 6.42, 11.25, -2.15)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_515i1")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/Dishwasher4" unique_id=470221102]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/Dishwasher4/StaticBody3D" unique_id=57210833]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Dishwasher2" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=108347273]
+transform = Transform3D(-5.2453668e-08, -0.3, 0, 1.2, -1.3113417e-08, 0, 0, 0, 1.2, 6.7, 11.25, -1.7)
+mesh = SubResource("CylinderMesh_t54wm")
+surface_material_override/0 = SubResource("StandardMaterial3D_suf1n")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/Dishwasher2" unique_id=634710739]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/Dishwasher2/StaticBody3D" unique_id=932194821]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Dishwasher3" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=1697732053]
+transform = Transform3D(-4.8082526e-08, -0.31, 0, 1.1, -1.35505305e-08, 0, 0, 0, 1.1, 6.7, 11.25, -1.7)
+mesh = SubResource("CylinderMesh_t54wm")
+surface_material_override/0 = SubResource("StandardMaterial3D_m8ja4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/Dishwasher3" unique_id=2128985410]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/Dishwasher3/StaticBody3D" unique_id=1737795790]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="buttons" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=213312590]
+transform = Transform3D(-6.5567085e-09, -0.3, 0, 0.15, -1.3113417e-08, 0, 0, 0, 0.15, 6.7537346, 11.888397, -2.3052945)
+mesh = SubResource("CylinderMesh_t54wm")
+surface_material_override/0 = SubResource("StandardMaterial3D_suf1n")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/buttons" unique_id=649189018]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/buttons/StaticBody3D" unique_id=405287448]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="buttons2" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=474482305]
+transform = Transform3D(-6.5567085e-09, -0.3, 0, 0.15, -1.3113417e-08, 0, 0, 0, 0.15, 6.7537346, 11.888397, -2.1048975)
+mesh = SubResource("CylinderMesh_t54wm")
+surface_material_override/0 = SubResource("StandardMaterial3D_suf1n")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/buttons2" unique_id=884066214]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/buttons2/StaticBody3D" unique_id=520291379]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="buttons3" type="MeshInstance3D" parent="kitchen full/Washing machine" unique_id=2069270199]
+transform = Transform3D(-6.5567085e-09, -0.3, 0, 0.15, -1.3113417e-08, 0, 0, 0, 0.15, 6.7537346, 11.888397, -1.1575117)
+mesh = SubResource("CylinderMesh_t54wm")
+surface_material_override/0 = SubResource("StandardMaterial3D_suf1n")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/Washing machine/buttons3" unique_id=1962784760]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/Washing machine/buttons3/StaticBody3D" unique_id=1735948479]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="furnature" type="Node3D" parent="kitchen full" unique_id=509274689]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 0)
+
+[node name="fridge" type="MeshInstance3D" parent="kitchen full/furnature" unique_id=1302011864]
+transform = Transform3D(1, 0, 0, 0, 2.5, 0, 0, 0, 1, 1.6, 1.75, -3)
+mesh = SubResource("BoxMesh_qra7f")
+skin = SubResource("Skin_vbmue")
+surface_material_override/0 = SubResource("StandardMaterial3D_edjiw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/furnature/fridge" unique_id=62085266]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/furnature/fridge/StaticBody3D" unique_id=1692343820]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="fridge2" type="MeshInstance3D" parent="kitchen full/furnature" unique_id=1919456064]
+transform = Transform3D(0.9, 0, 0, 0, 1.8, 0, 0, 0, 1, 1.6, 1.45, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+skin = SubResource("Skin_vbmue")
+surface_material_override/0 = SubResource("StandardMaterial3D_edjiw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/furnature/fridge2" unique_id=1251084731]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/furnature/fridge2/StaticBody3D" unique_id=826218358]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="fridge3" type="MeshInstance3D" parent="kitchen full/furnature" unique_id=2111664979]
+transform = Transform3D(0.8999999, 0, 0, 0, 0.54999995, 0, 0, 0, 0.99999994, 1.6, 2.6999998, -2.9)
+mesh = SubResource("BoxMesh_qra7f")
+skin = SubResource("Skin_vbmue")
+surface_material_override/0 = SubResource("StandardMaterial3D_edjiw")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/furnature/fridge3" unique_id=628310675]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/furnature/fridge3/StaticBody3D" unique_id=1069091367]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Fridge handle" type="MeshInstance3D" parent="kitchen full/furnature" unique_id=1389774861]
+transform = Transform3D(0.05, 0, 0, 0, 0.2, 0, 0, 0, 0.3, 2, 2.6, -2.5)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_jlbcp")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/furnature/Fridge handle" unique_id=925457833]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/furnature/Fridge handle/StaticBody3D" unique_id=877110263]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="Fridge handle2" type="MeshInstance3D" parent="kitchen full/furnature" unique_id=1956193961]
+transform = Transform3D(0.05, 0, 0, 0, 0.2, 0, 0, 0, 0.3, 2, 2.2, -2.5)
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_jlbcp")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="kitchen full/furnature/Fridge handle2" unique_id=553981147]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="kitchen full/furnature/Fridge handle2/StaticBody3D" unique_id=1111455259]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="living room" type="Node3D" parent="." unique_id=240469994]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -10, 0)
+
+[node name="table" type="Node3D" parent="living room" unique_id=739815209]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 1, 0, -2.5)
+
+[node name="table5" type="MeshInstance3D" parent="living room/table" unique_id=1645394870]
+transform = Transform3D(0.2, 0, 0, 0, 1, 0, 0, 0, 0.2, 8.75, 10.925, 6.725)
+material_override = SubResource("StandardMaterial3D_k6t24")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/table/table5" unique_id=1418481979]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/table/table5/StaticBody3D" unique_id=443584485]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table3" type="MeshInstance3D" parent="living room/table" unique_id=848527102]
+transform = Transform3D(0.2, 0, 0, 0, 1, 0, 0, 0, 0.2, 6.25, 10.925, 6.725)
+material_override = SubResource("StandardMaterial3D_k6t24")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/table/table3" unique_id=229889039]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/table/table3/StaticBody3D" unique_id=1363247703]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table4" type="MeshInstance3D" parent="living room/table" unique_id=1013458861]
+transform = Transform3D(0.2, 0, 0, 0, 1, 0, 0, 0, 0.2, 8.75, 10.925, 8.275)
+material_override = SubResource("StandardMaterial3D_k6t24")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/table/table4" unique_id=1797629113]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/table/table4/StaticBody3D" unique_id=527108077]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table2" type="MeshInstance3D" parent="living room/table" unique_id=112293034]
+transform = Transform3D(0.2, 0, 0, 0, 1, 0, 0, 0, 0.2, 6.25, 10.925, 8.275)
+material_override = SubResource("StandardMaterial3D_k6t24")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/table/table2" unique_id=223768840]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/table/table2/StaticBody3D" unique_id=123275680]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table6" type="MeshInstance3D" parent="living room/table" unique_id=1739884946]
+transform = Transform3D(2.7, 0, 0, 0, 0.15, 0, 0, 0, 1.75, 7.5, 11.5, 7.5)
+material_override = SubResource("StandardMaterial3D_k6t24")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/table/table6" unique_id=438602206]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/table/table6/StaticBody3D" unique_id=2078006205]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="sofa" type="Node3D" parent="living room" unique_id=646548454]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -16.416317, 0, -9.5694065)
+
+[node name="sofa" type="MeshInstance3D" parent="living room/sofa" unique_id=1377279832]
+transform = Transform3D(-4.7, 0, -2.6424266e-07, 0, 0.75, 0, 7.0968025e-07, 0, -1.75, 7.377, 11, 7.179508)
+material_override = SubResource("StandardMaterial3D_7osof")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/sofa/sofa" unique_id=216969193]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/sofa/sofa/StaticBody3D" unique_id=236271319]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="sofa5" type="MeshInstance3D" parent="living room/sofa" unique_id=487653593]
+transform = Transform3D(-4.7, 0, -3.774895e-07, 0, 0.01, 0, 7.0968025e-07, 0, -2.5, 9.221133, 10.5, 10.499)
+material_override = SubResource("StandardMaterial3D_rnsht")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/sofa/sofa5" unique_id=1893686244]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/sofa/sofa5/StaticBody3D" unique_id=1576959885]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="sofa3" type="MeshInstance3D" parent="living room/sofa" unique_id=395784791]
+transform = Transform3D(-0.5, 0, -2.6424266e-07, 0, 0.75, 0, 7.54979e-08, 0, -1.75, 9.5, 11.389582, 7.1911626)
+material_override = SubResource("StandardMaterial3D_7osof")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/sofa/sofa3" unique_id=1968500938]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/sofa/sofa3/StaticBody3D" unique_id=883416449]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="sofa4" type="MeshInstance3D" parent="living room/sofa" unique_id=2463633]
+transform = Transform3D(-0.5, 0, -2.6424266e-07, 0, 0.75, 0, 7.54979e-08, 0, -1.75, 5.2, 11.39, 7.191)
+material_override = SubResource("StandardMaterial3D_7osof")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/sofa/sofa4" unique_id=1247604235]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/sofa/sofa4/StaticBody3D" unique_id=355002047]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="sofa2" type="MeshInstance3D" parent="living room/sofa" unique_id=1083535849]
+transform = Transform3D(-4.7, 6.0756214e-08, 3.245466e-07, 9.181085e-07, 0.034805458, 1.7447577, 5.65239e-07, 0.44865197, -0.1353546, 7.377, 11.530898, 6.4688845)
+material_override = SubResource("StandardMaterial3D_7osof")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/sofa/sofa2" unique_id=671809271]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/sofa/sofa2/StaticBody3D" unique_id=1735066335]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tv" type="Node3D" parent="living room" unique_id=433608876]
+
+[node name="tv1" type="MeshInstance3D" parent="living room/tv" unique_id=327089564]
+transform = Transform3D(0.18115026, 0, -1.2753758, 0, 0.9, 0, 0.239133, 0, 0.96613467, -6.5, 12.148478, 5.055984)
+material_override = SubResource("StandardMaterial3D_jygf0")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/tv/tv1" unique_id=19469654]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/tv/tv1/StaticBody3D" unique_id=1710391226]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tv5" type="MeshInstance3D" parent="living room/tv" unique_id=287905191]
+transform = Transform3D(0.18115026, 0, -1.1956649, 0, 0.8, 0, 0.239133, 0, 0.9057512, -6.51, 12.148, 5.056)
+material_override = SubResource("StandardMaterial3D_ryv5w")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/tv/tv5" unique_id=726350198]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/tv/tv5/StaticBody3D" unique_id=526826028]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tv2" type="MeshInstance3D" parent="living room/tv" unique_id=347211451]
+transform = Transform3D(0.36230052, 0, -0.478266, 0, 0.1, 0, 0.478266, 0, 0.36230052, -6.438253, 11.563982, 5.1374946)
+material_override = SubResource("StandardMaterial3D_jygf0")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/tv/tv2" unique_id=1005137845]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/tv/tv2/StaticBody3D" unique_id=1495844679]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tv4" type="MeshInstance3D" parent="living room/tv" unique_id=397477734]
+transform = Transform3D(0.060383417, 0, -0.1195665, 0, 0.1, 0, 0.079711, 0, 0.09057513, -6.414, 12.235, 5.175)
+material_override = SubResource("StandardMaterial3D_jygf0")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/tv/tv4" unique_id=74972663]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/tv/tv4/StaticBody3D" unique_id=991682511]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="tv3" type="MeshInstance3D" parent="living room/tv" unique_id=210479209]
+transform = Transform3D(0.09057513, 0, -0.1195665, 0, 0.7, 0, 0.1195665, 0, 0.09057513, -6.3346353, 11.938397, 5.274278)
+material_override = SubResource("StandardMaterial3D_jygf0")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="living room/tv/tv3" unique_id=184170433]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="living room/tv/tv3/StaticBody3D" unique_id=218480062]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="dineing room" type="Node3D" parent="." unique_id=1109171530]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -10, 0)
+
+[node name="table" type="Node3D" parent="dineing room" unique_id=542890764]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 1.0000001, 0, 2.7039776)
+
+[node name="table6" type="MeshInstance3D" parent="dineing room/table" unique_id=1599389563]
+transform = Transform3D(3, 0, 0, 0, 0.15, 0, 0, 0, 6, 8.436763, 11.93456, 6.3686047)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/table/table6" unique_id=1352956613]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/table/table6/StaticBody3D" unique_id=594513078]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table7" type="MeshInstance3D" parent="dineing room/table" unique_id=1817261227]
+transform = Transform3D(0.3, 0, 0, 0, 2, 0, 0, 0, 0.3, 9.75, 10.925598, 9.193057)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/table/table7" unique_id=1363122283]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/table/table7/StaticBody3D" unique_id=1771439490]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table8" type="MeshInstance3D" parent="dineing room/table" unique_id=777836734]
+transform = Transform3D(0.3, 0, 0, 0, 2, 0, 0, 0, 0.3, 7.129464, 10.925598, 9.193057)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/table/table8" unique_id=552960113]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/table/table8/StaticBody3D" unique_id=806626636]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table9" type="MeshInstance3D" parent="dineing room/table" unique_id=94320834]
+transform = Transform3D(0.3, 0, 0, 0, 2, 0, 0, 0, 0.3, 9.75, 10.925598, 3.5347974)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/table/table9" unique_id=1004063928]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/table/table9/StaticBody3D" unique_id=847466022]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="table10" type="MeshInstance3D" parent="dineing room/table" unique_id=1688382377]
+transform = Transform3D(0.3, 0, 0, 0, 2, 0, 0, 0, 0.3, 7.129464, 10.925598, 3.5347974)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/table/table10" unique_id=323885225]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/table/table10/StaticBody3D" unique_id=1016360570]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="cutlery" type="Node3D" parent="dineing room" unique_id=1161659025]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 1.0000001, 0, 2.7039776)
+
+[node name="plate" type="MeshInstance3D" parent="dineing room/cutlery" unique_id=868574204]
+transform = Transform3D(1, 0, 0, 0, 0.05, 0, 0, 0, 1, 9.318482, 12.025785, 8.032404)
+material_override = SubResource("StandardMaterial3D_4mq60")
+mesh = SubResource("CylinderMesh_u02i4")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/cutlery/plate" unique_id=510432732]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/cutlery/plate/StaticBody3D" unique_id=51251488]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="plate2" type="MeshInstance3D" parent="dineing room/cutlery" unique_id=459931935]
+transform = Transform3D(1, 0, 0, 0, 0.05, 0, 0, 0, 1, 7.5766134, 12.025785, 8.205307)
+material_override = SubResource("StandardMaterial3D_4mq60")
+mesh = SubResource("CylinderMesh_u02i4")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/cutlery/plate2" unique_id=2130564281]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/cutlery/plate2/StaticBody3D" unique_id=1071005368]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="plate3" type="MeshInstance3D" parent="dineing room/cutlery" unique_id=1015588962]
+transform = Transform3D(1, 0, 0, 0, 0.05, 0, 0, 0, 1, 7.692643, 12.025785, 6.3225865)
+material_override = SubResource("StandardMaterial3D_4mq60")
+mesh = SubResource("CylinderMesh_u02i4")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/cutlery/plate3" unique_id=1713426319]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/cutlery/plate3/StaticBody3D" unique_id=1495547583]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="plate4" type="MeshInstance3D" parent="dineing room/cutlery" unique_id=1646071866]
+transform = Transform3D(1, 0, 0, 0, 0.05, 0, 0, 0, 1, 9.354712, 12.025785, 6.1289926)
+material_override = SubResource("StandardMaterial3D_4mq60")
+mesh = SubResource("CylinderMesh_u02i4")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/cutlery/plate4" unique_id=1339515967]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/cutlery/plate4/StaticBody3D" unique_id=1594903843]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="plate5" type="MeshInstance3D" parent="dineing room/cutlery" unique_id=1334207260]
+transform = Transform3D(1, 0, 0, 0, 0.05, 0, 0, 0, 1, 9.173465, 12.025785, 4.6718388)
+material_override = SubResource("StandardMaterial3D_4mq60")
+mesh = SubResource("CylinderMesh_u02i4")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/cutlery/plate5" unique_id=1139487273]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/cutlery/plate5/StaticBody3D" unique_id=1812031213]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="plate6" type="MeshInstance3D" parent="dineing room/cutlery" unique_id=1299021297]
+transform = Transform3D(1, 0, 0, 0, 0.05, 0, 0, 0, 1, 7.5853825, 12.025785, 4.274981)
+material_override = SubResource("StandardMaterial3D_4mq60")
+mesh = SubResource("CylinderMesh_u02i4")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/cutlery/plate6" unique_id=832127458]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/cutlery/plate6/StaticBody3D" unique_id=1701026015]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chair" type="Node3D" parent="dineing room" unique_id=467200330]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.8941317, 0, -0.7057357)
+
+[node name="chir" type="MeshInstance3D" parent="dineing room/chair" unique_id=979504918]
+transform = Transform3D(-6.556708e-08, 0, -1.35, 0, 0.15, 0, 1.5, 0, -5.9010375e-08, -5.3686047, 11.329138, 13.041132)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair/chir" unique_id=737469673]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair/chir/StaticBody3D" unique_id=1949761061]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir2" type="MeshInstance3D" parent="dineing room/chair" unique_id=1314946872]
+transform = Transform3D(2.8660283e-15, 6.5567085e-09, -1.35, 1.5, -6.5567085e-09, 0, -6.556708e-08, -0.15, -5.9010375e-08, -5.369, 12.14, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair/chir2" unique_id=2134012014]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair/chir2/StaticBody3D" unique_id=363925133]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir3" type="MeshInstance3D" parent="dineing room/chair" unique_id=2119301636]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair/chir3" unique_id=273997620]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair/chir3/StaticBody3D" unique_id=637177672]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir4" type="MeshInstance3D" parent="dineing room/chair" unique_id=289512567]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair/chir4" unique_id=1267980120]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair/chir4/StaticBody3D" unique_id=880197605]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir5" type="MeshInstance3D" parent="dineing room/chair" unique_id=178310987]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair/chir5" unique_id=1978255825]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair/chir5/StaticBody3D" unique_id=801576395]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir6" type="MeshInstance3D" parent="dineing room/chair" unique_id=848569958]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair/chir6" unique_id=2116540246]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair/chir6/StaticBody3D" unique_id=990907524]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chair2" type="Node3D" parent="dineing room" unique_id=1412267116]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.7057357)
+
+[node name="chir" type="MeshInstance3D" parent="dineing room/chair2" unique_id=246339540]
+transform = Transform3D(-6.556708e-08, 0, -1.35, 0, 0.15, 0, 1.5, 0, -5.9010375e-08, -5.3686047, 11.329138, 13.041132)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair2/chir" unique_id=426887389]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair2/chir/StaticBody3D" unique_id=272071300]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir2" type="MeshInstance3D" parent="dineing room/chair2" unique_id=1341349841]
+transform = Transform3D(2.8660283e-15, 6.5567085e-09, -1.35, 1.5, -6.5567085e-09, 0, -6.556708e-08, -0.15, -5.9010375e-08, -5.369, 12.14, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair2/chir2" unique_id=1235632943]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair2/chir2/StaticBody3D" unique_id=437033364]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir3" type="MeshInstance3D" parent="dineing room/chair2" unique_id=2126622141]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair2/chir3" unique_id=1752128856]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair2/chir3/StaticBody3D" unique_id=14886686]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir4" type="MeshInstance3D" parent="dineing room/chair2" unique_id=1807626272]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair2/chir4" unique_id=590813505]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair2/chir4/StaticBody3D" unique_id=470991745]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir5" type="MeshInstance3D" parent="dineing room/chair2" unique_id=1693933094]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair2/chir5" unique_id=1767930875]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair2/chir5/StaticBody3D" unique_id=551592018]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir6" type="MeshInstance3D" parent="dineing room/chair2" unique_id=2136431998]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair2/chir6" unique_id=2088758505]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair2/chir6/StaticBody3D" unique_id=571708299]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chair3" type="Node3D" parent="dineing room" unique_id=83882877]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.6873717, 0, -0.7057357)
+
+[node name="chir" type="MeshInstance3D" parent="dineing room/chair3" unique_id=1883451831]
+transform = Transform3D(-6.556708e-08, 0, -1.35, 0, 0.15, 0, 1.5, 0, -5.9010375e-08, -5.3686047, 11.329138, 13.041132)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair3/chir" unique_id=1732316626]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair3/chir/StaticBody3D" unique_id=1620163024]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir2" type="MeshInstance3D" parent="dineing room/chair3" unique_id=1360693624]
+transform = Transform3D(2.8660283e-15, 6.5567085e-09, -1.35, 1.5, -6.5567085e-09, 0, -6.556708e-08, -0.15, -5.9010375e-08, -5.369, 12.14, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair3/chir2" unique_id=911803700]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair3/chir2/StaticBody3D" unique_id=260256150]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir3" type="MeshInstance3D" parent="dineing room/chair3" unique_id=1205714799]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair3/chir3" unique_id=1855932376]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair3/chir3/StaticBody3D" unique_id=758434577]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir4" type="MeshInstance3D" parent="dineing room/chair3" unique_id=324230263]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair3/chir4" unique_id=1652444950]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair3/chir4/StaticBody3D" unique_id=1740272220]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir5" type="MeshInstance3D" parent="dineing room/chair3" unique_id=2088167580]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair3/chir5" unique_id=754924088]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair3/chir5/StaticBody3D" unique_id=1933902163]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir6" type="MeshInstance3D" parent="dineing room/chair3" unique_id=706116344]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair3/chir6" unique_id=1423371564]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair3/chir6/StaticBody3D" unique_id=1104590975]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chair4" type="Node3D" parent="dineing room" unique_id=1999913007]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -12.50623, 0, 23.236202)
+
+[node name="chir" type="MeshInstance3D" parent="dineing room/chair4" unique_id=40484276]
+transform = Transform3D(-6.556708e-08, 0, -1.35, 0, 0.15, 0, 1.5, 0, -5.9010375e-08, -5.3686047, 11.329138, 13.041132)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair4/chir" unique_id=2126062355]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair4/chir/StaticBody3D" unique_id=420989866]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir2" type="MeshInstance3D" parent="dineing room/chair4" unique_id=1244535896]
+transform = Transform3D(2.8660283e-15, 6.5567085e-09, -1.35, 1.5, -6.5567085e-09, 0, -6.556708e-08, -0.15, -5.9010375e-08, -5.369, 12.14, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair4/chir2" unique_id=251869591]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair4/chir2/StaticBody3D" unique_id=2085078114]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir3" type="MeshInstance3D" parent="dineing room/chair4" unique_id=2121029353]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair4/chir3" unique_id=140643945]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair4/chir3/StaticBody3D" unique_id=1197630347]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir4" type="MeshInstance3D" parent="dineing room/chair4" unique_id=1683777395]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair4/chir4" unique_id=547334816]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair4/chir4/StaticBody3D" unique_id=1211270586]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir5" type="MeshInstance3D" parent="dineing room/chair4" unique_id=253969785]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair4/chir5" unique_id=210772639]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair4/chir5/StaticBody3D" unique_id=1081328641]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir6" type="MeshInstance3D" parent="dineing room/chair4" unique_id=1019489096]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair4/chir6" unique_id=1806608863]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair4/chir6/StaticBody3D" unique_id=1651100013]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chair5" type="Node3D" parent="dineing room" unique_id=2137586156]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -10.612099, 0, 23.236202)
+
+[node name="chir" type="MeshInstance3D" parent="dineing room/chair5" unique_id=1122362302]
+transform = Transform3D(-6.556708e-08, 0, -1.35, 0, 0.15, 0, 1.5, 0, -5.9010375e-08, -5.3686047, 11.329138, 13.041132)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair5/chir" unique_id=1433750042]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair5/chir/StaticBody3D" unique_id=1413627993]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir2" type="MeshInstance3D" parent="dineing room/chair5" unique_id=41982039]
+transform = Transform3D(2.8660283e-15, 6.5567085e-09, -1.35, 1.5, -6.5567085e-09, 0, -6.556708e-08, -0.15, -5.9010375e-08, -5.369, 12.14, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair5/chir2" unique_id=1678182358]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair5/chir2/StaticBody3D" unique_id=391671228]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir3" type="MeshInstance3D" parent="dineing room/chair5" unique_id=409752390]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair5/chir3" unique_id=691355792]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair5/chir3/StaticBody3D" unique_id=821156497]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir4" type="MeshInstance3D" parent="dineing room/chair5" unique_id=416323124]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair5/chir4" unique_id=742856398]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair5/chir4/StaticBody3D" unique_id=1907020324]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir5" type="MeshInstance3D" parent="dineing room/chair5" unique_id=1599976004]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair5/chir5" unique_id=1570664922]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair5/chir5/StaticBody3D" unique_id=553465196]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir6" type="MeshInstance3D" parent="dineing room/chair5" unique_id=1543961035]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair5/chir6" unique_id=1174372016]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair5/chir6/StaticBody3D" unique_id=147446886]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chair6" type="Node3D" parent="dineing room" unique_id=126316536]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -8.924727, 0, 23.236202)
+
+[node name="chir" type="MeshInstance3D" parent="dineing room/chair6" unique_id=1798970724]
+transform = Transform3D(-6.556708e-08, 0, -1.35, 0, 0.15, 0, 1.5, 0, -5.9010375e-08, -5.3686047, 11.329138, 13.041132)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair6/chir" unique_id=1907675221]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair6/chir/StaticBody3D" unique_id=313332126]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir2" type="MeshInstance3D" parent="dineing room/chair6" unique_id=1598491035]
+transform = Transform3D(2.8660283e-15, 6.5567085e-09, -1.35, 1.5, -6.5567085e-09, 0, -6.556708e-08, -0.15, -5.9010375e-08, -5.369, 12.14, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair6/chir2" unique_id=241425016]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair6/chir2/StaticBody3D" unique_id=1647039227]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir3" type="MeshInstance3D" parent="dineing room/chair6" unique_id=1174448208]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair6/chir3" unique_id=1890164864]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair6/chir3/StaticBody3D" unique_id=1206269876]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir4" type="MeshInstance3D" parent="dineing room/chair6" unique_id=1855865790]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -5.987, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair6/chir4" unique_id=1418212548]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair6/chir4/StaticBody3D" unique_id=1350231964]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir5" type="MeshInstance3D" parent="dineing room/chair6" unique_id=1529437399]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 13.72)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair6/chir5" unique_id=1826026609]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair6/chir5/StaticBody3D" unique_id=1654484095]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="chir6" type="MeshInstance3D" parent="dineing room/chair6" unique_id=1972193618]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="dineing room/chair6/chir6" unique_id=1057126719]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="dineing room/chair6/chir6/StaticBody3D" unique_id=219891680]
+shape = SubResource("BoxShape3D_qra7f")
+
+[node name="lights" type="Node3D" parent="." unique_id=1133579493]
+
+[node name="light" type="Node3D" parent="lights" unique_id=1145403748]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -8.924727, 0, 23.236202)
+
+[node name="chir6" type="MeshInstance3D" parent="lights/light" unique_id=812954925]
+transform = Transform3D(2.8660285e-15, 6.5567085e-09, -0.15, 1.5, -6.5567085e-09, 2.3528693e-23, -6.556708e-08, -0.15, -6.5567085e-09, -4.7647133, 10.51, 12.372731)
+material_override = SubResource("StandardMaterial3D_glg8d")
+mesh = SubResource("BoxMesh_qra7f")
+surface_material_override/0 = SubResource("StandardMaterial3D_u02i4")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="lights/light/chir6" unique_id=281956604]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="lights/light/chir6/StaticBody3D" unique_id=1408971744]
+shape = SubResource("BoxShape3D_qra7f")
